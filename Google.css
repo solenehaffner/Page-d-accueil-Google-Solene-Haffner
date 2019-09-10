@@ -1,0 +1,61 @@
+*
+{
+    font-family: Arial;
+    font-size: 15px
+}
+
+.bouton
+{
+    font-size: 10px
+}
+
+
+.item
+{
+    margin-left: 10px
+}
+
+.image
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formulaire
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.champ
+{
+    border-radius: 10em;
+}
+
+.bouton
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.première
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.deuxième
+{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.troisième
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
